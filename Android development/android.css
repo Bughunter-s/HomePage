@@ -4,7 +4,7 @@
     color: white;
   }
   .content {
-      color:white;
+     background-color: white;
 }
 @media (min-width: 640px) {
     h1 {
