@@ -3,7 +3,9 @@
     text-align: center;
     color: white;
   }
-  
+  .content {
+      color:white;
+}
 @media (min-width: 640px) {
     h1 {
       font-size: 3rem;
